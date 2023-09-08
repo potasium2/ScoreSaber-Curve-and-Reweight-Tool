@@ -7,7 +7,7 @@ Tool to privately reweight scores on Beat Saber's unofficial ranking leaderboard
 ### How to use:
 
 Open up `Star reweighter - full.py` in order to choose whether to reweight via player scores or leaderboard scores.
-To edit the curve data, open `defines.py` and edit the following values under ppCurve() -> x = percent value, y = score multiplier
+To edit the curve data, open `defines.py` in an IDE and edit the following values under ppCurve() -> x = percent value, y = score multiplier
 If you wish to edit the star to pp multiplier (the arbitrary number that makes pp values less linear the higher the star rating) you can do so under playerScoreGrab/leaderboardScoreGrab -> pp
 
 ### Plans:
