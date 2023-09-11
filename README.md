@@ -17,6 +17,7 @@ Eventually I plan to update this to allow you to edit star ratings, give unranke
 
 - ~~Edit ranked maps star rating~~
 - ~~Give unranked maps a star rating~~
+- Add the ability to see weighted scores + total weighted pp amount
 - Implement some sort of per-map curve functionality
 - Allow you to edit pp curve & pp multiplier without having to physically open the python files
 - Any other things I may think of or people may suggest
